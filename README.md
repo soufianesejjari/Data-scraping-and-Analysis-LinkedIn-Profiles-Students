@@ -34,3 +34,12 @@ The data analysis performed on the LinkedIn profiles of ENSIAS students has prov
 The results of this analysis can be used to improve educational programs and career opportunities for ENSIAS students. For example, we can use the data to identify the skills that are in high demand in the job market, and incorporate them into the curriculum. Additionally, we can use the data to provide career guidance and support to students, by helping them to identify the skills and experiences that are most likely to lead to successful job placements.
 
 Overall, this project has demonstrated the power of data analysis to uncover valuable insights from LinkedIn profile data. We hope that this project will serve as a useful resource for ENSIAS students, educators, and career counselors, and that it will inspire future research in this area
+# References and Additional Resources
+
+- "Web Scraping with Python and Selenium" by Michael Herman, available at https://www.michael Herman.com/web-scraping-with-python-and-selenium/
+- "Beautiful Soup Documentation" available at https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+- "MongoDB Python Driver" available at https://api.mongodb.com/python/current/
+- "Pandas" available at https://pandas.pydata.org/
+- "Matplotlib" available at https://matplotlib.org/
+- "Seaborn" available at https://seaborn.pydata.org/
+Note: Selenium, Beautiful Soup, Pandas, Matplotlib and Seaborn are all popular Python libraries used for web scraping, data analysis, and data visualization. MongoDB is a popular NoSQL database
